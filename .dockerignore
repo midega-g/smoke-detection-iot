@@ -1,0 +1,19 @@
+# Ignore Jupyter notebook
+explore.ipynb
+
+# Ignore original data file
+data/smoke_detection_iot_orig.csv
+
+# Ignore publish & subscriber script
+mqtt_subscribe.py
+mqtt_publish.py
+
+# Ignore other unnecessary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+*.log
