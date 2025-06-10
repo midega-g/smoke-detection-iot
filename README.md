@@ -28,7 +28,7 @@ Key features:
 
 ## Architecture
 
-![architecture-diagram](smoke-detection-workflow.webp)
+   ![architecture-diagram](smoke-detection-workflow.webp)
 
 The data pipeline consists of the following components:
 
